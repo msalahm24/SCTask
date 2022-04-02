@@ -1,0 +1,17 @@
+.col-sm-2 {
+    border-style: solid;
+    float:left;
+    margin: 15px;
+    height: 150px;
+    width: 200px;
+    
+}
+
+.label {
+    padding: 10px;
+}
+
+.product_details{
+    text-align: center;
+    height: 150px;
+}
